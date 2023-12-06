@@ -1,9 +1,5 @@
 import java.util.ArrayList; // import the ArrayList class
 
-import java.util.*; // Allows Character.isDigit()
-import java.lang.*;
-import java.lang.reflect.Array; 
-
 class One {
     public static void main(String[] args) {
         // Array List of Calibration Values
