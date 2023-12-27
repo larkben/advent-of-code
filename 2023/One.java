@@ -10,10 +10,10 @@ class One {
         ArrayList<String> calibStrings = new ArrayList<String>();
         ArrayList<Character> calibValues = new ArrayList<Character>();
 
-        calibStrings.add("1abc2");    // 2 1
+        calibStrings.add("1abc2");              // 2 1
         calibStrings.add("pqr3stu8vwx");        // 6 6
-        calibStrings.add("a1b2c3d4e5f");   // 3 9
-        calibStrings.add("treb7uchet");        // 4 6
+        calibStrings.add("a1b2c3d4e5f");        // 3 9
+        calibStrings.add("treb7uchet");         // 4 6
         
         // Start -> Finish
         for (int x = 0; x < calibStrings.size(); x++) 
