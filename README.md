@@ -1,4 +1,4 @@
-# AdventOfCode 23
+# AdventOfCode
 All my advent of code programming problems and solutions.
 
 # 23 Info
