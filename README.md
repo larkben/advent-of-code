@@ -2,4 +2,8 @@
 All my advent of code programming problems and solutions.
 
 # 23 Info
-This is nowhere near complete but, I intend to use these problems as coding practice while attending school or as practice when I find time outside of school on breaks.
+- 2 days completed. Written in Java. Working IT Support Tech.
+> you can do better Ben.
+
+# 24 Info
+- _ days completed. Going to be written in _ . Working as Epic Interface Analyst. Graduating from College.
