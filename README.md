@@ -6,4 +6,4 @@ All my advent of code programming problems and solutions.
 > you can do better Ben.
 
 # 24 Info
-- _ days completed. Going to be written in _ . Working as Epic Interface Analyst. Graduating from College.
+- _ days completed. Going to be written in Python. Working as Epic Interface Analyst. Graduating from College.
